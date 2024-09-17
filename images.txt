@@ -8,3 +8,4 @@ haroldli/alist-tvbox
 xiaoyaliu/alist
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist
+--platform=linux/arm/v7 xiaoyaliu/alist:latest
