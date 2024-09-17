@@ -6,6 +6,7 @@ ydlhero/chatgpt-web-midjourney-proxy:latest
 zhayujie/chatgpt-on-wechat
 haroldli/alist-tvbox
 xiaoyaliu/alist
+ddsderek/xiaoyakeeper
 #支持指定架构
 --platform=linux/arm/v7 xiaoyaliu/alist
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
